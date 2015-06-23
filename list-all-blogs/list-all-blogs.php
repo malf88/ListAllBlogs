@@ -2,7 +2,7 @@
 /*
 Plugin Name: List All Blogs
 Plugin URI:  http://sandbox.maridoedani.com/plugin-listar-todos-os-blogs
-Description: Plugin para listar todos os posts de blogs da rede de blogs
+Description: Plugin para listar todos os blogs da rede de blogs
 Version: 1.0
 Author: Marco Aurélio Lima Fernandes
 Author URI: https://sandbox.maridoedani.com
